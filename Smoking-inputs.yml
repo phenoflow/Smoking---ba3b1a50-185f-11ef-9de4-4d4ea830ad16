@@ -1,0 +1,63 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/smoking-exsmoker---primary.py
+inputModule3:
+  class: File
+  path: python/smoking-tobacco---primary.py
+inputModule4:
+  class: File
+  path: python/smoking---primary.py
+inputModule5:
+  class: File
+  path: python/smoking-administration---primary.py
+inputModule6:
+  class: File
+  path: python/passive-smoking---primary.py
+inputModule7:
+  class: File
+  path: python/smoking-amount---primary.py
+inputModule8:
+  class: File
+  path: python/unknown-smoking---primary.py
+inputModule9:
+  class: File
+  path: python/smoking-stopping---primary.py
+inputModule10:
+  class: File
+  path: python/smoking-trying---primary.py
+inputModule11:
+  class: File
+  path: python/smoking-consumption---primary.py
+inputModule12:
+  class: File
+  path: python/smoking-stopped---primary.py
+inputModule13:
+  class: File
+  path: python/smoking-cigar---primary.py
+inputModule14:
+  class: File
+  path: python/smoking-nonsmoker---primary.py
+inputModule15:
+  class: File
+  path: python/smoking-advice---primary.py
+inputModule16:
+  class: File
+  path: python/smoking-cessation---primary.py
+inputModule17:
+  class: File
+  path: python/referral-smoking---primary.py
+inputModule18:
+  class: File
+  path: python/smoking-restarted---primary.py
+inputModule19:
+  class: File
+  path: python/current-smoking---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
